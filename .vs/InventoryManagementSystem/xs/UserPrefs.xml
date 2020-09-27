@@ -1,0 +1,81 @@
+﻿<Properties StartupConfiguration="{7CB53012-39F6-494D-A547-E6177E7B05AC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Core PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp/ClientApp/src/app/warehouse/warehouse-create-edit/warehouse-create-edit.component.ts">
+    <Files>
+      <File FileName="WebApp/Controllers/EmployeeController.cs" Line="26" Column="18" />
+      <File FileName="InventoryManagementSystem/Entity/Employee.cs" Line="18" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/employees/employees.component.html" Line="28" Column="47" />
+      <File FileName="WebApp/ClientApp/src/app/stock/stock.component.html" Line="17" Column="42" />
+      <File FileName="WebApp/ClientApp/src/app/employees/employees.component.ts" Line="24" Column="4" />
+      <File FileName="WebApp/Controllers/InventoryController.cs" Line="27" Column="10" />
+      <File FileName="WebApp/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/stock/stock.component.ts" Line="44" Column="4" />
+      <File FileName="WebApp/ClientApp/src/app/stock/stock.component.css" Line="1" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/Core/Service/RestApi.service.ts" Line="66" Column="27" />
+      <File FileName="WebApp/ClientApp/src/app/nav-menu/nav-menu.component.html" Line="27" Column="21" />
+      <File FileName="WebApp/ClientApp/src/app/home/home.component.html" Line="21" Column="69" />
+      <File FileName="WebApp/ClientApp/src/app/warehouse/warehouse.component.html" Line="31" Column="28" />
+      <File FileName="WebApp/ClientApp/src/app/warehouse/warehouse.component.ts" Line="6" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/employees/employee-create-edit/employee-create-edit.component.html" Line="28" Column="23" />
+      <File FileName="WebApp/ClientApp/src/app/stock/stock-create-edit/stock-create-edit.component.html" Line="34" Column="40" />
+      <File FileName="WebApp/ClientApp/src/app/employees/employee-create-edit/employee-create-edit.component.css" Line="5" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/stock/stock-create-edit/stock-create-edit.component.css" Line="5" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/warehouse/warehouse-create-edit/warehouse-create-edit.component.css" Line="5" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/warehouse/warehouse-create-edit/warehouse-create-edit.component.html" Line="36" Column="43" />
+      <File FileName="WebApp/ClientApp/src/app/employees/employee-create-edit/employee-create-edit.component.ts" Line="47" Column="25" />
+      <File FileName="WebApp/ClientApp/src/app/stock/stock-create-edit/stock-create-edit.component.ts" Line="32" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/warehouse/warehouse-create-edit/warehouse-create-edit.component.spec.ts" Line="1" Column="1" />
+      <File FileName="WebApp/ClientApp/src/app/warehouse/warehouse-create-edit/warehouse-create-edit.component.ts" Line="2" Column="9" />
+      <File FileName="InventoryManagementSystem/Entity/Inventory.cs" Line="24" Column="1" NotebookId="1" />
+      <File FileName="InventoryManagementSystem/Entity/Warehouse.cs" Line="10" Column="35" NotebookId="1" />
+      <File FileName="WebApp/Controllers/WarehouseController.cs" Line="61" Column="1" NotebookId="1" />
+      <File FileName="Business/Service/WareHouseBusiness.cs" Line="48" Column="10" NotebookId="1" />
+      <File FileName="Business/Service/InventoryBusiness.cs" Line="37" Column="1" NotebookId="1" />
+      <File FileName="Business/Service/EmployeeBusiness.cs" Line="61" Column="10" NotebookId="1" />
+      <File FileName="InventoryManagementSystem/Interface/IWarehouse.cs" Line="11" Column="30" NotebookId="1" />
+      <File FileName="InventoryManagementSystem/Interface/IInventory.cs" Line="11" Column="17" NotebookId="1" />
+      <File FileName="InventoryManagementSystem/Interface/IEmployee.cs" Line="16" Column="1" NotebookId="1" />
+      <File FileName="WebApp/ClientApp/src/app/app.module.ts" Line="31" Column="20" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InventoryManagementSystem" expanded="True">
+            <Node name="WebApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="Core" expanded="True">
+                      <Node name="Service" expanded="True" />
+                    </Node>
+                    <Node name="employees" expanded="True">
+                      <Node name="employee-create-edit" expanded="True" />
+                    </Node>
+                    <Node name="stock" expanded="True">
+                      <Node name="stock-create-edit" expanded="True" />
+                    </Node>
+                    <Node name="warehouse" expanded="True">
+                      <Node name="warehouse-create-edit" expanded="True">
+                        <Node name="warehouse-create-edit.component.ts" expanded="True" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                  <Node name="environments" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

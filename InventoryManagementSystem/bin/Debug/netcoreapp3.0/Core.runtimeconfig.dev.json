@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Rekod/.dotnet/store/|arch|/|tfm|",
+      "/Users/Rekod/.nuget/packages"
+    ]
+  }
+}

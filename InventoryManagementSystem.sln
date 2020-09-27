@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "InventoryManagementSystem\Core.csproj", "{A662AB3A-0596-44C9-BB70-50F33D7F9787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{7CB53012-39F6-494D-A547-E6177E7B05AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{A2A94576-4AD7-46A6-BF29-833DF8FCD519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A662AB3A-0596-44C9-BB70-50F33D7F9787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A662AB3A-0596-44C9-BB70-50F33D7F9787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A662AB3A-0596-44C9-BB70-50F33D7F9787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A662AB3A-0596-44C9-BB70-50F33D7F9787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB53012-39F6-494D-A547-E6177E7B05AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB53012-39F6-494D-A547-E6177E7B05AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB53012-39F6-494D-A547-E6177E7B05AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB53012-39F6-494D-A547-E6177E7B05AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A94576-4AD7-46A6-BF29-833DF8FCD519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A94576-4AD7-46A6-BF29-833DF8FCD519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A94576-4AD7-46A6-BF29-833DF8FCD519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A94576-4AD7-46A6-BF29-833DF8FCD519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

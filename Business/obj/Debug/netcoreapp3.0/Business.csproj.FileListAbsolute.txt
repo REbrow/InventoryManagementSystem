@@ -1,0 +1,12 @@
+/Users/Rekod/Projects/InventoryManagementSystem/Business/bin/Debug/netcoreapp3.0/Business.deps.json
+/Users/Rekod/Projects/InventoryManagementSystem/Business/bin/Debug/netcoreapp3.0/Business.dll
+/Users/Rekod/Projects/InventoryManagementSystem/Business/bin/Debug/netcoreapp3.0/Business.pdb
+/Users/Rekod/Projects/InventoryManagementSystem/Business/bin/Debug/netcoreapp3.0/Core.dll
+/Users/Rekod/Projects/InventoryManagementSystem/Business/bin/Debug/netcoreapp3.0/Core.pdb
+/Users/Rekod/Projects/InventoryManagementSystem/Business/obj/Debug/netcoreapp3.0/Business.csprojAssemblyReference.cache
+/Users/Rekod/Projects/InventoryManagementSystem/Business/obj/Debug/netcoreapp3.0/Business.AssemblyInfoInputs.cache
+/Users/Rekod/Projects/InventoryManagementSystem/Business/obj/Debug/netcoreapp3.0/Business.AssemblyInfo.cs
+/Users/Rekod/Projects/InventoryManagementSystem/Business/obj/Debug/netcoreapp3.0/Business.csproj.CoreCompileInputs.cache
+/Users/Rekod/Projects/InventoryManagementSystem/Business/obj/Debug/netcoreapp3.0/Business.csproj.CopyComplete
+/Users/Rekod/Projects/InventoryManagementSystem/Business/obj/Debug/netcoreapp3.0/Business.dll
+/Users/Rekod/Projects/InventoryManagementSystem/Business/obj/Debug/netcoreapp3.0/Business.pdb
