@@ -39,3 +39,5 @@ export class WarehouseComponent implements OnInit {
       alert(res.success);
     })
   }
+
+}
